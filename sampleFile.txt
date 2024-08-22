@@ -2,6 +2,5 @@ sample git file
 learning basics
 
 
-
-editing the document
+deleting the file
 lets check in git
